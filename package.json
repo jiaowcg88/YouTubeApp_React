@@ -1,4 +1,5 @@
 {
+  "home":"https://jiaowcg88.github.io/YouTubeApp_React",
   "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
